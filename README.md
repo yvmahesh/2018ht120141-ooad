@@ -34,4 +34,4 @@ Rate(Rs.) : 5
 Rating : 200
 ____________________________
 
-Class Diagram:
+
